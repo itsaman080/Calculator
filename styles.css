@@ -1,0 +1,39 @@
+html, body {
+  font-family: "Montserrat",sans-serif;
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(135deg,#8052ec,#d161ff)
+}
+
+.text-center {
+  text-align: center;
+}
+.row {
+  text-align: center;
+  margin: 8px 0;
+}
+.button {
+  width: 70px;
+  height: 20px;
+  padding: 20px;
+  margin: 0 auto;
+  border: solid black;
+  border-radius: 9px;
+  cursor: pointer;
+  color: #d161ff;
+  font-size: 20px;
+  justify-content: center;
+
+}
+.row input {
+  width: 300px;
+  padding: 10px 0;
+  font-size: 25px;
+  border: solid black;
+  border-radius: 9px;
+  color: #d161ff;
+}
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+}
